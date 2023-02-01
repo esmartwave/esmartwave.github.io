@@ -5,7 +5,7 @@ layout: default
 
 ## Matt Richardson
 mattr@mattrichardson.io | 262-337-1832 |
-linkedin.com/in/matt-richardson-technology | 
+linkedin.com/in/matt-richardson-technology |
 Milwaukee, WI
 
 **_Corporate IT Leader • Information Security • User Experience • Business Systems • Product_**
@@ -25,7 +25,8 @@ Milwaukee, WI
 
 ### EXPERTISE
 
-|:------------------|:----------------------------------------------------------|
+|                   |                                                           |
+| :---------------- | :-------------------------------------------------------- |
 | Business:         |                                                           |
 | Compliance:       | SOC, ISO 27001/27701, PCI DSS, HIPAA, HITECH, FERPA, CCPA, NIST, ITIL |
 | Security Operations:|                                                         |
@@ -33,6 +34,23 @@ Milwaukee, WI
 | Technology:       | Cloud & Hybrid Architecture (AWS, Azure, Active Directory, GCP), MacOS, Windows, Linux, UNIX, Cisco |
 | Tools:            |                                                           |
 | Certifications:   |                                                           |
+
+<dl>
+<dt>Business:</dt>
+<dd>Green</dd>
+<dt>Compliance:</dt>
+<dd>SOC, ISO 27001/27701, PCI DSS, HIPAA, HITECH, FERPA, CCPA, NIST, ITIL</dd>
+<dt>Security Operations:</dt>
+<dd>Green</dd>
+<dt>IT Operations:</dt>
+<dd>Green</dd>
+<dt>Technology:</dt>
+<dd>Cloud & Hybrid Architecture (AWS, Azure, Active Directory, GCP), MacOS, Windows, Linux, UNIX, Cisco</dd>
+<dt>Tools:</dt>
+<dd>Green</dd>
+<dt>Certifications:</dt>
+<dd>CISSP</dd>
+</dl>
 
 ### WORK HISTORY
 
