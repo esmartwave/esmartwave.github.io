@@ -8,7 +8,7 @@ My expertise lies in aligning people, technology and core values to create frict
 
 [My LinkedIN Profile](https://www.linkedin.com/in/matt-richardson-technology/)
 
-[My Resume]](./MattRichardsonResume.html)
+[My Resume](./MattRichardsonResume.html)
 
 # Resources
 
