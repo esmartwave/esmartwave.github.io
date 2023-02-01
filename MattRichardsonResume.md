@@ -55,6 +55,7 @@ Milwaukee, WI
 ### WORK HISTORY
 
 #### Director
+
 **COMPANY** Location    01/2021 - 12/2021
 
 _Lead internal technology operations with a budget of $4 million for a high-growth, award-winning MDR/XDR cybersecurity software company with an international customer base. Focused on creating technology experiences that enable productivity and align with modern security controls. Reported to CISO._
@@ -69,6 +70,7 @@ _Lead internal technology operations with a budget of $4 million for a high-grow
 * Reduced risk (zero critical/high vulnerabilities), optimized controls (zero findings), improved user security behavior (no breaches) and maintained productivity (99.98% uptime) while improving overall user experience
 
 #### Director
+
 **COMPANY** Location    01/2021 - 12/2021
 
 _Lead internal technology operations with a budget of $4 million for a high-growth, award-winning MDR/XDR cybersecurity software company with an international customer base. Focused on creating technology experiences that enable productivity and align with modern security controls. Reported to CISO._
@@ -83,6 +85,7 @@ _Lead internal technology operations with a budget of $4 million for a high-grow
 * Reduced risk (zero critical/high vulnerabilities), optimized controls (zero findings), improved user security behavior (no breaches) and maintained productivity (99.98% uptime) while improving overall user experience
 
 #### Director
+
 **COMPANY** Location    01/2021 - 12/2021
 
 _Lead internal technology operations with a budget of $4 million for a high-growth, award-winning MDR/XDR cybersecurity software company with an international customer base. Focused on creating technology experiences that enable productivity and align with modern security controls. Reported to CISO._
