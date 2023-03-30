@@ -8,6 +8,16 @@ https://www.linkedin.com/pulse/advice-job-seekers-resumes-standing-out-workatast
 
 ## Research
 
+### How to research companies
+
+All depends on the market conditions
+
+Seed, Series A, Series B, Series C are all baseline and generally required 
+
+Series D might be needed for some industries, and would be normal to get in a down economy to hold over until IPO
+
+Series E is generally a bad indicator 
+
 # Understand and Write Down Things About Yourself
 
 _temet nosce_ - Know Thyself
